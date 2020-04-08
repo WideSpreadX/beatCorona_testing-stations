@@ -1,0 +1,26 @@
+{
+  "name": "beatCorona_testing-stations",
+  "version": "1.0.0",
+  "description": "Where users can find local testing stations for coronavirus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WideSpreadX/beatCorona_testing-stations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WideSpreadX/beatCorona_testing-stations/issues"
+  },
+  "homepage": "https://github.com/WideSpreadX/beatCorona_testing-stations#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "mongoose": "^5.9.7"
+  }
+}
